@@ -110,7 +110,15 @@ This project helped in understanding:
 
 ## Screenshots
 
-(Add your project screenshots here)
+<img width="963" height="916" alt="Image" src="https://github.com/user-attachments/assets/8825bb0b-592d-4e8f-b181-1af408d0b2c5" />
+<br><br>
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/add0ca7c-63ee-40c0-8cc7-7c41e34cbb5f" />
+<br><br>
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5e784952-ce43-4a74-9403-fbc564cbcbeb" />
+<br><br>
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3d245ef3-1aa3-44c7-8c61-4226baea0341" />
+<br><br>
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/258d6341-0d41-4c58-a391-93679c2950b8" />
 
 ---
 
@@ -124,8 +132,3 @@ Possible improvements include:
 - Creating a dashboard to view submitted data
 - Improving UI/UX of the contact form
 
----
-
-## Repository Purpose
-
-This repository showcases my hands-on experience in building a **serverless application using AWS services**. It highlights the integration of Lambda, API Gateway, and DynamoDB to create a scalable and efficient backend system as part of my cloud and DevOps learning journey.
